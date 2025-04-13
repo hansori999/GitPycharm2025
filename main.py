@@ -20,6 +20,9 @@ if __name__ == '__main__':
     print_hi('Hello World 4')
 
     print_hi('Hello World 5')
+    
+    print_hi('Hello World Updates on GitHub')
+
 
     print_hi('Hello World Updates on Local Master Branch')
 # https://www.jetbrains.com/help/pycharm/에서 PyCharm 도움말 참조
